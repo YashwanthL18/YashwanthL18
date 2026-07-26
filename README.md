@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="imagem-banner-cybersecurity.webp" alt="Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Yashwanth L</h1>
 
