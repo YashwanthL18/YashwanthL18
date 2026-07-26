@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yashwanth L</h1>
 
-<h3 align="center">A passionate Cybersecurity Enthusiast from India </h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&pause=1000&color=58A6FF&width=2014&height=122&lines=A+passionate+Cybersecurity+Enthusiast+from+India)](https://git.io/typing-svg) 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=YashwanthL18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
