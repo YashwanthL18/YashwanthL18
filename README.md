@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Yashwanth L</h1>
 
 <h3 align="center">A passionate Cybersecurity Enthusiast from India </h3>
