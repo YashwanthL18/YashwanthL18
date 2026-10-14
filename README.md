@@ -19,8 +19,31 @@
 
 ➜  <b>Tech Stack:</b> React.js, Node.js, MongoDB, Python, JavaScript, Git, and GitHub.<br><br>
 
+## 👨‍💻 About Me
 
+<p align="center">
+  <b>Cybersecurity Enthusiast | AI/ML Explorer | Full-Stack Developer</b>
+</p>
 
+<p align="center">
+  Passionate about building secure, intelligent, and scalable digital solutions.
+</p>
+
+---
+
+### 🎯 What I Do
+
+- 🛡️ **Focus:** Cybersecurity, Artificial Intelligence, Machine Learning, and Full-Stack Development.
+- 🚀 **Building:** Secure web applications, cybersecurity labs, and AI-powered projects.
+- 💡 **Interests:** Ethical Hacking, Network Security, Open Source, AI/ML, and Software Engineering.
+- 📚 **Learning:** Advanced Cybersecurity, System Design, Cloud Computing, and Modern Web Technologies.
+- ⚙️ **Core Stack:** React.js, Node.js, MongoDB, Python, JavaScript, Git, and GitHub.
+
+---
+
+<p align="center">
+  <i>"Securing the digital world, one project at a time."</i>
+</p>
 
 ## 🌐 Connect with Me
 <p align="left">
