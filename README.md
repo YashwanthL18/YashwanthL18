@@ -8,42 +8,23 @@
 </p>
 
 
-➜  <b>Focus:</b> Cybersecurity , AI/ML , and Full-Stack Web Development .<br><br>
+➜ **𝙵𝙾𝙲𝚄𝚂:** 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢, 𝙰𝙸/𝙼𝙻, 𝚊𝚗𝚍 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.<br><br>
 
-➜  <b>Building:</b> Secure web applications, cybersecurity labs, and AI-powered projects.<br><br>
+➜ **𝙱𝚄𝙸𝙻𝙳𝙸𝙽𝙶:** 𝚂𝚎𝚌𝚞𝚛𝚎 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜, 𝚌𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚕𝚊𝚋𝚜, 𝚊𝚗𝚍 𝙰𝙸-𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.<br><br>
 
-➜  <b>Interests:</b> Cybersecurity, AI, Open Source, and Full-Stack Development.<br><br>
+➜ **𝙸𝙽𝚃𝙴𝚁𝙴𝚂𝚃𝚂:** 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢, 𝙰𝙸, 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎, 𝚊𝚗𝚍 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.<br><br>
 
+➜ **𝙻𝙴𝙰𝚁𝙽𝙸𝙽𝙶:** 𝙰𝚍𝚟𝚊𝚗𝚌𝚎𝚍 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢, 𝚂𝚢𝚜𝚝𝚎𝚖 𝙳𝚎𝚜𝚒𝚐𝚗, 𝙲𝚕𝚘𝚞𝚍 𝙲𝚘𝚖𝚙𝚞𝚝𝚒𝚗𝚐, 𝚊𝚗𝚍 𝙼𝚘𝚍𝚎𝚛𝚗 𝚆𝚎𝚋 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜.<br><br>
 
-➜  <b>Learning:</b> Advanced Cybersecurity, System Design, Cloud Computing, and Modern Web Technologies.<br><br>
+➜ **𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺:** 𝚁𝚎𝚊𝚌𝚝.𝚓𝚜, 𝙽𝚘𝚍𝚎.𝚓𝚜, 𝙼𝚘𝚗𝚐𝚘𝙳𝙱, 𝙿𝚢𝚝𝚑𝚘𝚗, 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝, 𝙶𝚒𝚝, 𝚊𝚗𝚍 𝙶𝚒𝚝𝙷𝚞𝚋.
 
-➜  <b>Tech Stack:</b> React.js, Node.js, MongoDB, Python, JavaScript, Git, and GitHub.<br><br>
-
-## 👨‍💻 About Me
-
-<p align="center">
-  <b>Cybersecurity Enthusiast | AI/ML Explorer | Full-Stack Developer</b>
-</p>
+<br><br>
 
 <p align="center">
-  Passionate about building secure, intelligent, and scalable digital solutions.
+  <i>𝚂𝚎𝚌𝚞𝚛𝚒𝚗𝚐 𝚝𝚑𝚎 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚠𝚘𝚛𝚕𝚍, 𝚘𝚗𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚊𝚝 𝚊 𝚝𝚒𝚖𝚎.</i>
 </p>
 
----
-
-### 🎯 What I Do
-
-- 🛡️ **Focus:** Cybersecurity, Artificial Intelligence, Machine Learning, and Full-Stack Development.
-- 🚀 **Building:** Secure web applications, cybersecurity labs, and AI-powered projects.
-- 💡 **Interests:** Ethical Hacking, Network Security, Open Source, AI/ML, and Software Engineering.
-- 📚 **Learning:** Advanced Cybersecurity, System Design, Cloud Computing, and Modern Web Technologies.
-- ⚙️ **Core Stack:** React.js, Node.js, MongoDB, Python, JavaScript, Git, and GitHub.
-
----
-
-<p align="center">
-  <i>"Securing the digital world, one project at a time."</i>
-</p>
+<br><br>
 
 ## 🌐 Connect with Me
 <p align="left">
