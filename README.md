@@ -8,7 +8,7 @@
 </p>
 
 
-➜   <b>Focus:</b> Cybersecurity , AI/ML , and Full-Stack Web Development .<br><br>
+➜  <b>Focus:</b> Cybersecurity , AI/ML , and Full-Stack Web Development .<br><br>
 
 ➜  <b>Building:</b> Secure web applications, cybersecurity labs, and AI-powered projects.<br><br>
 
