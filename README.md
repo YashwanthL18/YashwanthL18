@@ -44,109 +44,112 @@
 
 <br><br>
 
-<h2 align="center">𝚃𝙴𝙲𝙷  𝚂𝚃𝙰𝙲𝙺</h2>
+<h2 align="center">𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺</h2>
 
-<br><br>
+<br>
 
 <details open>
-<summary align="center"><b> 𝙲𝚈𝙱𝙴𝚁𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 &amp; 𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 𝚃𝙾𝙾𝙻𝚂</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell" alt="Kali Linux, Linux, Bash, PowerShell"/>
-
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark"/>
-  &nbsp;&nbsp;
-  <img src="https://nmap.org/images/nmap-logo-64px.png" height="48" alt="Nmap"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/owasp/000000" height="48" alt="OWASP"/>
-  &nbsp;&nbsp;
-</p>
-
-<details open>
-<summary align="center"><b> 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙼𝙸𝙽𝙶 </b></summary>
-<br>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="C, C++, Java, Python, JavaScript, TypeScript">
-</p>
+  <summary align="center"><b> 𝙲𝚈𝙱𝙴𝚁𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 &amp; 𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 𝚃𝙾𝙾𝙻𝚂</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell" alt="Kali Linux, Linux, Bash, PowerShell"/>
+    &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark"/>
+    &nbsp;&nbsp;
+    <img src="https://nmap.org/images/nmap-logo-64px.png" height="48" alt="Nmap"/>
+    &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite"/>
+    &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit"/>
+    &nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/owasp/000000" height="48" alt="OWASP"/>
+  </p>
 </details>
 
-<br><br>
+<br>
 
 <details open>
-<summary align="center"><b> 𝙵𝚁𝙾𝙽𝚃𝙴𝙽𝙳 </b></summary>
-<br>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="HTML, CSS, React, Next.js, Tailwind CSS, Bootstrap">
-</p>
+  <summary align="center"><b>𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙼𝙸𝙽𝙶</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="C, C++, Java, Python, JavaScript, TypeScript"/>
+  </p>
 </details>
 
-<br><br>
+<br>
 
 <details open>
-<summary align="center"><b>  𝙱𝙰𝙲𝙺𝙴𝙽𝙳 </b></summary>
-<br>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi" alt="Node.js, Express, Flask, Django, FastAPI">
-</p>
+  <summary align="center"><b>𝙵𝚁𝙾𝙽𝚃𝙴𝙽𝙳</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="HTML, CSS, React, Next.js, Tailwind CSS, Bootstrap"/>
+  </p>
 </details>
 
-<br><br>
+<br>
 
 <details open>
-<summary align="center"><b> 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 </b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" height="48" alt="MySQL, MongoDB, SQLite"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/neo4j/008CC1" height="48" alt="Neo4j"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" height="48" alt="Firebase, Supabase"/>
-</p>
+  <summary align="center"><b>𝙱𝙰𝙲𝙺𝙴𝙽𝙳</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi" alt="Node.js, Express, Flask, Django, FastAPI"/>
+  </p>
 </details>
 
-<br><br>
+<br>
 
 <details open>
-<summary align="center"><b> 𝙰𝙸 &amp; 𝙳𝙰𝚃𝙰 </b></summary>
-<br>
-<p align="center">
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib"/>
-
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="48" alt="PyTorch"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" alt="TensorFlow"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="Scikit-learn"/>
-</p>
+  <summary align="center"><b>𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" height="48" alt="MySQL, MongoDB, SQLite"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/neo4j/008CC1" height="48" alt="Neo4j"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=firebase,supabase" height="48" alt="Firebase, Supabase"/>
+  </p>
 </details>
 
-<br><br>
+<br>
 
 <details open>
-<summary align="center"><b> 𝙲𝙻𝙾𝚄𝙳 &amp; 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃 </b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cloudflare,netlify" alt="Cloudflare and Netlify"/>
-</p>
+  <summary align="center"><b>𝙰𝙸 &amp; 𝙳𝙰𝚃𝙰</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="48" alt="PyTorch"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" alt="TensorFlow"/>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="Scikit-learn"/>
+  </p>
 </details>
 
-<br><br>
+<br>
 
 <details open>
-<summary align="center"><b> 𝚃𝙾𝙾𝙻𝚂 &amp; 𝙳𝙴𝚂𝙸𝙶𝙽 </b></summary>
+  <summary align="center"><b>𝙲𝙻𝙾𝚄𝙳 &amp; 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=cloudflare,netlify" alt="Cloudflare and Netlify"/>
+  </p>
+</details>
+
 <br>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma" alt="Git, GitHub, Docker, Postman, Figma">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva"/>
-</p>
+
+<details open>
+  <summary align="center"><b>𝚃𝙾𝙾𝙻𝚂 &amp; 𝙳𝙴𝚂𝙸𝙶𝙽</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma" alt="Git, GitHub, Docker, Postman, Figma"/>
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva"/>
+  </p>
 </details>
 
 <br><br>
