@@ -49,6 +49,24 @@
 <br><br>
 
 <details open>
+<summary align="center"><b> 𝙲𝚈𝙱𝙴𝚁𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 &amp; 𝚂𝙴𝙲𝚄𝚁𝙸𝚃𝚈 𝚃𝙾𝙾𝙻𝚂</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell" alt="Kali Linux, Linux, Bash, PowerShell"/>
+
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark"/>
+  &nbsp;&nbsp;
+  <img src="https://nmap.org/images/nmap-logo-64px.png" height="48" alt="Nmap"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/owasp/000000" height="48" alt="OWASP"/>
+  &nbsp;&nbsp;
+</p>
+
+<details open>
 <summary align="center"><b> 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙼𝙸𝙽𝙶 </b></summary>
 <br>
 <p align="center">
