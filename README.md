@@ -81,7 +81,11 @@
 <summary align="center"><b> 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴</b></summary>
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,neo4j,firebase,supabase" alt="MySQL, MongoDB, SQLite, Neo4j, Firebase, Supabase">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" height="48" alt="MySQL, MongoDB, SQLite"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/neo4j/008CC1" height="48" alt="Neo4j"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" height="48" alt="Firebase, Supabase"/>
 </p>
 </details>
 
@@ -102,6 +106,16 @@
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" alt="TensorFlow"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="Scikit-learn"/>
+</p>
+</details>
+
+<br><br>
+
+<details open>
+<summary align="center"><b> 𝙲𝙻𝙾𝚄𝙳 &amp; 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cloudflare,netlify" alt="Cloudflare and Netlify"/>
 </p>
 </details>
 
