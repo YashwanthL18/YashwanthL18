@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YashwanthL18&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile Views">
 </p>
+
 <br><br>
 
 ➜ **𝙵𝙾𝙲𝚄𝚂:** 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢, 𝙰𝙸/𝙼𝙻, 𝚊𝚗𝚍 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.<br><br>
@@ -39,62 +40,84 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-<br><br>
 
+<br><br>
 
 <h2 align="center">𝚃𝙴𝙲𝙷 𝚂𝚃𝙰𝙲𝙺</h2>
 
+<br><br>
+
 <details open>
-<summary align="center"><b>💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙼𝙸𝙽𝙶</b></summary>
+<summary align="center"><b> 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙼𝙸𝙽𝙶</b></summary>
 <br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="C, C++, Java, Python, JavaScript, TypeScript">
 </p>
 </details>
 
+<br><br>
+
 <details open>
-<summary align="center"><b>🖥️ 𝙵𝚁𝙾𝙽𝚃𝙴𝙽𝙳</b></summary>
+<summary align="center"><b> 𝙵𝚁𝙾𝙽𝚃𝙴𝙽𝙳</b></summary>
 <br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="HTML, CSS, React, Next.js, Tailwind CSS, Bootstrap">
 </p>
 </details>
 
+<br><br>
+
 <details open>
-<summary align="center"><b>⚙️ 𝙱𝙰𝙲𝙺𝙴𝙽𝙳</b></summary>
+<summary align="center"><b>  𝙱𝙰𝙲𝙺𝙴𝙽𝙳</b></summary>
 <br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi" alt="Node.js, Express, Flask, Django, FastAPI">
 </p>
 </details>
 
+<br><br>
+
 <details open>
-<summary align="center"><b>🗄️ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴</b></summary>
+<summary align="center"><b> 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴</b></summary>
 <br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,neo4j,firebase,supabase" alt="MySQL, MongoDB, SQLite, Neo4j, Firebase, Supabase">
 </p>
 </details>
 
+<br><br>
+
 <details open>
-<summary align="center"><b >🧠 𝙰𝙸 &amp; 𝙳𝙰𝚃𝙰</b></summary>
+<summary align="center"><b> 𝙰𝙸 &amp; 𝙳𝙰𝚃𝙰</b></summary>
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,pytorch,tensorflow,sklearn" alt="NumPy, Pandas, Matplotlib, PyTorch, TensorFlow, scikit-learn">
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib"/>
+
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="48" alt="PyTorch"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" alt="TensorFlow"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="Scikit-learn"/>
 </p>
 </details>
 
+<br><br>
+
 <details open>
-<summary align="center"><b>🛠️ 𝚃𝙾𝙾𝙻𝚂 &amp; 𝙳𝙴𝚂𝙸𝙶𝙽</b></summary>
+<summary align="center"><b> 𝚃𝙾𝙾𝙻𝚂 &amp; 𝙳𝙴𝚂𝙸𝙶𝙽</b></summary>
 <br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma" alt="Git, GitHub, Docker, Postman, Figma">
-<br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="Canva"/>
 </p>
 </details>
 
 <br><br>
+
 <h1 align="center"> 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂</h1>
 
 <p align="center">
