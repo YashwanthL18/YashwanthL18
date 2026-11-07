@@ -75,7 +75,7 @@
   <summary align="center"><b>𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙼𝙸𝙽𝙶</b></summary>
   <br>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="C, C++, Java, Python, JavaScript, TypeScript"/>
+    <img src="https://skillicons.dev/icons?i=c,java,python,js,ts" alt="C, Java, Python, JavaScript, TypeScript"/>
   </p>
 </details>
 
