@@ -62,7 +62,10 @@
     &nbsp;&nbsp;
     <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit"/>
     &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/owasp/000000" height="48" alt="OWASP"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/ffffff">
+      <img src="https://cdn.simpleicons.org/owasp/000000" height="48" alt="OWASP"/>
+    </picture>
   </p>
 </details>
 
