@@ -29,7 +29,7 @@
 
 <h2 align="center"> 𝙲𝙾𝙽𝙽𝙴𝙲𝚃  𝚆𝙸𝚃𝙷  𝙼𝙴</h2>
 <p align="center">
-  <a href="[https://www.linkedin.com/in/yashwantl18](https://www.linkedin.com/in/yashwanth-l-b97150355?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+  <a href="www.linkedin.com/in/yashwanthL184u">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
